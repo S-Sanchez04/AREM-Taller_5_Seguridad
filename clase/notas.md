@@ -23,9 +23,9 @@ Herramientas utilizadas:
 
 Se alcanzó a completar la primera versión de la tabla de amenazas y se dejó pendiente la justificación detallada para el informe final.
 
-## 🧩 Boceto inicial del modelo
 
-> (Aquí puede insertarse una foto de la pizarra o un diagrama preliminar hecho en draw.io si se desea ilustrar el flujo analizado)
+## Notas
+Para la realización de la tabla STRIDE su utilizó la ayuda de AEVA y el formato proporcionado en clase.
 
 ## 🔁 Tareas definidas para complementar el taller
 
